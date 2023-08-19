@@ -3,5 +3,3 @@ numpy
 pandas
 skit-learn
 
-// How to install these requirement on single click 
-pip install -r requirements.txt
